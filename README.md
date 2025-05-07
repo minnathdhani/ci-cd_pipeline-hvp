@@ -1,4 +1,4 @@
-# 🚀 Lightweight CI/CD Pipeline with Bash, Python & Cron (Ubuntu + Nginx)
+# 🚀 Lightweight CI/CD Pipeline with Bash, Python & Cron (EC2 Linux + Nginx)
 
 This project demonstrates a lightweight CI/CD (Continuous Integration and Continuous Deployment) pipeline using Bash, Python, and cron jobs on an Ubuntu server. It is designed to automatically detect new commits to a GitHub repository and deploy them using Nginx to serve a simple HTML site.
 
