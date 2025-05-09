@@ -92,15 +92,3 @@ Your deployed website is updated automatically. <br>
 
 
 
-## 🔐 Security Notes
-
-Never expose your GitHub token publicly.
-Use environment variables or .env files for secure token management in production.
-Ensure your Ubuntu server has firewall and SSH hardening in place.
-
-## 📌 Requirements:
-
-Python 3.x <br>
-Nginx <br>
-EC2 Linux <br>
-
